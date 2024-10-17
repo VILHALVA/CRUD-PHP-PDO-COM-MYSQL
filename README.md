@@ -19,7 +19,7 @@ Este projeto é uma aplicação web simples que implementa um sistema CRUD (Crea
 
 ## EXECUTANDO O PROJETO:
 1. **Importar o `DATABASE.sql`**  
-   - Antes de iniciar o site, é necessário importar o arquivo localizado em `./CODIGO/DATABASE.sql`.
+   - Antes de iniciar o site, é necessário importar o arquivo localizado em `./DATABASE/DATABASE.sql`.
 
 2. **Instalar dependências**:
    Navegue até o diretório `./CODIGO` e execute o comando:
